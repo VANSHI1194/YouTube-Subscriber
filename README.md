@@ -60,4 +60,4 @@ dotenv
 
 ## Demo
 
-https://youtube-subs.onrender.com
+https://ytsubs-vzjq.onrender.com/
